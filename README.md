@@ -1,6 +1,6 @@
 ### ◈ Software developer.
-### ◈ web / desktop app developer.
-### ◈ Graphic designer (amateur)
+◈ web / desktop app developer.
+◈ Graphic designer (amateur)
 
 <!--
 **Johns-mx/Johns-mx**
