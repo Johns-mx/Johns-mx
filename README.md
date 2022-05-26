@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--
-**Johns-mx/Johns-mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Johns-mx/Johns-mx**
+
+◈ Software developer.
+◈ web / desktop app developer.
+◈ Graphic designer (amateur)
 
 Here are some ideas to get you started:
 
