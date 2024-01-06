@@ -19,13 +19,21 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/johns-mx-dev">Johns-mx</a> 🫡</h1>
+  <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/johns-mx-dev">Johns-mx</a> 🫡</h1>
 </div>
 <img src="https://i.imgur.com/3gRpo2k.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNwdaMuCJIzeyN3BJtzHY7Q)](https://www.youtube.com/@zrjcoding?sub_confirmation=1)
+<div align="center">
+  <a href="mailto:johanfsk144@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/johns-mx-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-## Sobre mi
+
+## About me
 
 - 🫡 I'm a Fullstack Developer
 - 📱 Mobile & Web Developer 🌐
@@ -34,7 +42,18 @@ Here are some ideas to get you started:
 - 🎨 I have knowledge of UI, User Interface design
 <br>
 
+## Languages and Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nginx,mysql,docker,kubernetes,flask,js,ts,react,html"/><br>
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,ai,cs,github" />
+</div>
+<br>
+
 ## Contenido de mi canal
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNwdaMuCJIzeyN3BJtzHY7Q)](https://www.youtube.com/@zrjcoding?sub_confirmation=1)
+<br>
+
 <table>
 <tr>
 <td width="50%">
