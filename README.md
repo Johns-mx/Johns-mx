@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,nginx,mysql,docker,kubernetes,flask,js,ts,react,html"/><br>
-  <img src="https://skillicons.dev/icons?i=git,github,wordpress,ai,cs,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress,ai,cs" />
 </div>
 <br>
 
